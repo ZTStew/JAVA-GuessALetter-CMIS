@@ -3,6 +3,7 @@ the predefined requirements of an assignment.
 
 | - - - - - |
 
-Program is a short game that prompt the user to enter a letter of the 
-alphabet a and is then informed as to if they got the value, were too 
-high or too low.
+Short game where a letter is randomly generated and then the user is 
+prompted to guess the letter. If they don't guess it, they are told if 
+they were to high or too low. If they do the game ends and the user is 
+asked if they would like to play again.
